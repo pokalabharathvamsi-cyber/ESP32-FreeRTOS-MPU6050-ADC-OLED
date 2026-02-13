@@ -1,0 +1,25 @@
+NTC Temperature Controller Started
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: OFF
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
+Temp:  C | LED: ON
